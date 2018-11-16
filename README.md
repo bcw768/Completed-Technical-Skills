@@ -15,5 +15,5 @@ On September 16, 2018, I completed the Microsoft Virtual Academy PowerShell: Beg
 On October 18, 2018, I completed the Guru99 Linux/Unix Tutorial for Beginners consisting of readings and video clips. In this tutorial, I gained a basic understanding of the system, including installation, comparisons to Windows, important commands for creating, viewing, deleting, moving, and manipulating files and directories, file permissions and ownership, redirection and expression, environment variables, process management, shell scripting, virtual terminal, general administration such as creating, using, and disabling, and the differences between Linux and Unix systems. This tutorial taught me the basic elements of Linux and gave me a basic understanding of its functions and differences from other operating systems. 
 
 ### Azure
-On September 6, 2018, I completed the beginner and intermediate video learning portions of the Microsoft Azure Administrator path. 
+On September 6, 2018, I completed the beginner and intermediate video learning portions of the Microsoft Azure Administrator path. In these videos, I gained a basic understanding of managing infrastructure, using virtual machines, using IaaS monitoring and management, and security used through the Azure platform. These videos taught me important concepts and allowed me to compare various forms of cloud services. 
 
